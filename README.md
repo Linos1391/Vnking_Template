@@ -17,7 +17,9 @@ Tổng hợp các template tôi đã dùng
 
 # 1. Timeline
 
-[feature_1](assets/feature_1.gif)
+![feature_1](assets/feature_1.gif)
+
+- [Hướng dẫn chi tiết ở đây] hoặc tự điều chỉnh theo brief code bên dưới nếu bạn tự tin.
 
 ```
 <div style="width: 70%;float: left">
