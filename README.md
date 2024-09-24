@@ -17,7 +17,7 @@ Tổng hợp các template tôi đã dùng
 
 # 1. Timeline
 
-
+[feature_1](assets/feature_1.gif)
 
 ```
 <div style="width: 70%;float: left">
