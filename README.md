@@ -19,7 +19,7 @@ Tổng hợp các template tôi đã dùng
 
 ![feature_1](assets/feature_1.gif)
 
-- [Hướng dẫn chi tiết ở đây] hoặc tự điều chỉnh theo brief code bên dưới nếu bạn tự tin.
+- [Hướng dẫn chi tiết ở đây](tutorial/1.%20Timeline.md) hoặc tự điều chỉnh theo brief code bên dưới nếu bạn tự tin.
 
 ```
 <div style="width: 70%;float: left">
