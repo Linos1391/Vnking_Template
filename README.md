@@ -11,7 +11,7 @@
 [vnking-shield]:https://img.shields.io/badge/Vnking-Linos-f29b11
 [vnking-url]:https://vnkings.com/author/linos
 
-Tổng hợp các template tôi đã dùng
+Template cho vnking.
 
 </div>
 
