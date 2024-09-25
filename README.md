@@ -36,5 +36,5 @@ Template cho vnking.
 
 # 2. Multiple ending
 
-Comming soon (Sủi mấy tháng thôi)
+Coming soon (Sủi mấy tháng thôi)
 
