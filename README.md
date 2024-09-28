@@ -34,6 +34,8 @@ Template cho vnking.
 
 ![feature_2](assets/feature_2.gif)
 
+- [Hướng dẫn chi tiết ở đây](tutorial/2.%20Multiple%20Ending.md) hoặc tự điều chỉnh theo brief code bên dưới nếu bạn tự tin.
+
 ```
 <!--Notice: height div = 52.5 * (số lựa chọn - 1) + 47.5-->
 
