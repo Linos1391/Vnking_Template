@@ -38,6 +38,10 @@ Template cho vnking.
 <!--Notice: height div = 52.5 * (số lựa chọn - 1) + 47.5-->
 
 <h3>...(Content / Question)</h3>
+1. (action 1)
+
+2. (action 2)
+
 <div style="height: 100px;background-color: #1d2333;border: 2 solid #272f41;padding: 5px;border-radius: 5px;box-shadow: 1px 1px 2px #bbbbbb">
 
 <button class="collapsed" style="height: 40px;width: 100%;background-color: #f0ad4e;color: #ffffff;border-color: #eea236;border-radius: 5px;font-size: 20px;" data-toggle="collapse" data-target="#id1" aria-expanded="false">Lựa chọn 1</button>
