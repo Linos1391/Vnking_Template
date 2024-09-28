@@ -3,13 +3,9 @@
 # Vnking Template
 
 [![][github-shield]][github-url]
-[![][vnking-shield]][vnking-url]
 
 [github-shield]:https://img.shields.io/badge/Github-Linos1391-151b23
 [github-url]:https://github.com/Linos1391
-
-[vnking-shield]:https://img.shields.io/badge/Vnking-Linos-f29b11
-[vnking-url]:https://vnkings.com/author/linos
 
 Template cho vnking.
 
