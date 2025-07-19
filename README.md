@@ -33,7 +33,7 @@ Template cho vnking.
 
 <div style="background-color: #1d2333;border: 3px solid #272f41;padding: 10px;text-align: center;border-radius: 5px;width: 100%;box-shadow: 1px 1px 2px #bbbbbb">...(Header)</div>
 
-<div style="margin: auto;width: 95%;background-color: #c490d1;border: 2px solid #1d2333;border-radius: 0px 0px 5px 5px;float: top;padding: 10px;box-shadow: 1px 1px 2px #bbbbbb;height: ...px;overflow: auto"">
+<div style="margin: auto;width: 95%;background-color: #c490d1;border: 2px solid #1d2333;border-radius: 0px 0px 5px 5px;float: top;padding: 10px;box-shadow: 1px 1px 2px #bbbbbb;height: 85vh;overflow: auto"">
 
 <a href="#(tên)">...(Child)</a>
 
